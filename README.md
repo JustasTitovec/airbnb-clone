@@ -8,6 +8,7 @@ Used tools:
 -Flexbox
 -Firebase host
 
-<img width="1440" alt="Screenshot 2020-11-29 at 22 36 11" src="https://user-images.githubusercontent.com/56971352/100554258-c6186180-3293-11eb-8359-dd16bbcca497.png">
+<img width="1440" alt="Screenshot 2020-11-29 at 22 29 05" src="https://user-images.githubusercontent.com/56971352/100554277-e516f380-3293-11eb-9cf6-435a5f7ca5f7.png">
+
 
 
